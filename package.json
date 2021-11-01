@@ -1,0 +1,24 @@
+{
+  "name": "example_chat_app_socket.io",
+  "version": "0.0.1",
+  "description": "\"Simple chat application with socket.io\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y2K222/example_chat_app_socket.io.git"
+  },
+  "author": "Zaw Htet Aung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Y2K222/example_chat_app_socket.io/issues"
+  },
+  "homepage": "https://github.com/Y2K222/example_chat_app_socket.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1"
+  }
+}
